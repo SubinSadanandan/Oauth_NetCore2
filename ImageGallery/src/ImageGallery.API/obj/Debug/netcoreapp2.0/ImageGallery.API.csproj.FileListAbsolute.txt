@@ -1,0 +1,14 @@
+D:\Subin\Tech\Asp.Net Core\Security\OAuth2_OpenID_Kevin\securing-aspdotnet-core2-oauth2-openid-connect\02\demos\start-end\ImageGallery\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.deps.json
+D:\Subin\Tech\Asp.Net Core\Security\OAuth2_OpenID_Kevin\securing-aspdotnet-core2-oauth2-openid-connect\02\demos\start-end\ImageGallery\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.runtimeconfig.json
+D:\Subin\Tech\Asp.Net Core\Security\OAuth2_OpenID_Kevin\securing-aspdotnet-core2-oauth2-openid-connect\02\demos\start-end\ImageGallery\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.runtimeconfig.dev.json
+D:\Subin\Tech\Asp.Net Core\Security\OAuth2_OpenID_Kevin\securing-aspdotnet-core2-oauth2-openid-connect\02\demos\start-end\ImageGallery\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.dll
+D:\Subin\Tech\Asp.Net Core\Security\OAuth2_OpenID_Kevin\securing-aspdotnet-core2-oauth2-openid-connect\02\demos\start-end\ImageGallery\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.API.pdb
+D:\Subin\Tech\Asp.Net Core\Security\OAuth2_OpenID_Kevin\securing-aspdotnet-core2-oauth2-openid-connect\02\demos\start-end\ImageGallery\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.Model.dll
+D:\Subin\Tech\Asp.Net Core\Security\OAuth2_OpenID_Kevin\securing-aspdotnet-core2-oauth2-openid-connect\02\demos\start-end\ImageGallery\src\ImageGallery.API\bin\Debug\netcoreapp2.0\ImageGallery.Model.pdb
+D:\Subin\Tech\Asp.Net Core\Security\OAuth2_OpenID_Kevin\securing-aspdotnet-core2-oauth2-openid-connect\02\demos\start-end\ImageGallery\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.csprojAssemblyReference.cache
+D:\Subin\Tech\Asp.Net Core\Security\OAuth2_OpenID_Kevin\securing-aspdotnet-core2-oauth2-openid-connect\02\demos\start-end\ImageGallery\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.csproj.CoreCompileInputs.cache
+D:\Subin\Tech\Asp.Net Core\Security\OAuth2_OpenID_Kevin\securing-aspdotnet-core2-oauth2-openid-connect\02\demos\start-end\ImageGallery\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.AssemblyInfoInputs.cache
+D:\Subin\Tech\Asp.Net Core\Security\OAuth2_OpenID_Kevin\securing-aspdotnet-core2-oauth2-openid-connect\02\demos\start-end\ImageGallery\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.AssemblyInfo.cs
+D:\Subin\Tech\Asp.Net Core\Security\OAuth2_OpenID_Kevin\securing-aspdotnet-core2-oauth2-openid-connect\02\demos\start-end\ImageGallery\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.csproj.CopyComplete
+D:\Subin\Tech\Asp.Net Core\Security\OAuth2_OpenID_Kevin\securing-aspdotnet-core2-oauth2-openid-connect\02\demos\start-end\ImageGallery\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.dll
+D:\Subin\Tech\Asp.Net Core\Security\OAuth2_OpenID_Kevin\securing-aspdotnet-core2-oauth2-openid-connect\02\demos\start-end\ImageGallery\src\ImageGallery.API\obj\Debug\netcoreapp2.0\ImageGallery.API.pdb
